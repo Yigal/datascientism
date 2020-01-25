@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Data Science As A Way Of Life
-image: /img/numbers_singularity.jfif
+image:  /img/coffee.png
 heading: Data Science As A Way Of Life
 subheading: The Church of Data Science
 mainpitch:
