@@ -2,20 +2,30 @@
 templateKey: index-page
 title: Data Science As A Way Of Life
 image: /img/numbers_singularity.jfif
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Data Science As A Way Of Life
+subheading: The Church of Data Science
 mainpitch:
-  title: Why Kaldi
+  title: Why DataScientism
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    For many years I had a problem with being non-religious, I always felt
+    like I don't have a good answer to questions that were always present in my
+    head, what is the meaning of it, what should I do next how to deal with this
+    or that. Since I believe in science rather than god, being religious was not
+    and option. Philosophy always looked meaning less, So, I just continued doing
+    my work without thinking about the bigger picture.
+    As a Data Scientist, it accord to me that this gives a pretty good answer to
+    the big questions. Since it's main goal is to use mathematical tools to answer
+    empirical questions. In a way it aim to understand every thing that we can
+    by analytical tools. And to estimate everything that we cannot, hoping that
+    some day we will be able to understand them analytically.
+    And when I thought about this stupid but deep statement.
+    I could only say: Now, that is a good meaning for life.
+
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  How to help?
+  This site and everything in it is for all the public, just press on the github
+  link on the upper right corner, edit anything you want on the github source and
+  you have contributed your offering to the god of Data Science.
 intro:
   blurbs:
     - image: /img/coffee.png
