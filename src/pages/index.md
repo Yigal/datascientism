@@ -7,19 +7,7 @@ subheading: The Church of Data Science
 mainpitch:
   title: Why DataScientism
   description: >
-    For many years I had a problem with being non-religious, I always felt
-    like I don't have a good answer to questions that were always present in my
-    head, what is the meaning of it, what should I do next how to deal with this
-    or that. Since I believe in science rather than god, being religious was not
-    and option. Philosophy always looked meaning less, So, I just continued doing
-    my work without thinking about the bigger picture.
-    As a Data Scientist, it accord to me that this gives a pretty good answer to
-    the big questions. Since it's main goal is to use mathematical tools to answer
-    empirical questions. In a way it aim to understand every thing that we can
-    by analytical tools. And to estimate everything that we cannot, hoping that
-    some day we will be able to understand them analytically.
-    And when I thought about this stupid but deep statement.
-    I could only say: Now, that is a good meaning for life.
+    ךףלח ךלח וזה התיאור של כל רגע
 
 description: >-
   How to help?
