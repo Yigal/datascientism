@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Data Science As A Way Of Life
+title: אני כותב בעיברית
 image:  /img/coffee.png
 heading: Data Science As A Way Of Life
 subheading: The Church of Data Science
