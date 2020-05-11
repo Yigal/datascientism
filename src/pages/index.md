@@ -1,8 +1,8 @@
 ---
 templateKey: index-page
-title: אני כותב בעיברית
+title: Quantapy: The Quant Maker
 image:  /img/coffee.png
-heading: Data Science As A Way Of Life
+heading: מסלול הכשרה לאלגוטריידינג
 subheading: The Church of Data Science
 mainpitch:
   title: Why DataScientism
