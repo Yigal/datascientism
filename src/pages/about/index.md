@@ -1,12 +1,12 @@
 ---
 templateKey: 'about-page'
 path: /about
-title: About our values
+title: הערכים של קוונטאפי
 ---
-### ומה עם זה
-זה חלק מהעניין
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+### כלים לא הבטחות
+הקורסים שלנו מתמקדים ברכישת מיומניות, אנחנו לא משווקים הבטחות. אלא כלים להגשים את היעדים שלך. זאת לא שיטת קסם, זה רכישת מיומניות
+### מסלול און ליין מלא
+הקורס הזה נולד כקורס אונליין, הרבה קורסים היום מוגשים כקורס אוןליין אבל למעשה זה קורס שהמבנה שלו הוא מבנה ישן של הרצאה ארוכה ותרגיל. הקורס שלנו יוצר אינטגרציה בין התרגול לשיעור כדי שאתה תוכל להשיג את התוצאות הטובות ביותר
 
 ### Sustainable farming
 Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
